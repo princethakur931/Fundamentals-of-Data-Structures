@@ -1,3 +1,4 @@
+//code by prince thakur
 #include<iostream>
 #include<string.h>
 using namespace std;
