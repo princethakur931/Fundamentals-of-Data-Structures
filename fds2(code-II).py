@@ -1,3 +1,4 @@
+#code by prince thakur
 print("Assignment-2 (String Operations)") 
 sentence = input("Enter sentence: ")
 longest = max(sentence.split(), key=len)
