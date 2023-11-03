@@ -1,3 +1,4 @@
+#code by prince thakur
 def selection_sort(marks):
     for i in range(len(marks)):
         min_idx = i
