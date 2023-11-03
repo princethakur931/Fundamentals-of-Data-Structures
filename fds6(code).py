@@ -1,4 +1,4 @@
-
+#code by prince thakur
 print("assignment-6(store first year percentage using quick sort)")
 def input_percentage():
     perc=[]
